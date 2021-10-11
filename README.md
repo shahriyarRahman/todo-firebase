@@ -1,7 +1,5 @@
 # Vue + Firebase Authentication
 
-![Vue-Firebase-Authentication](https://webomnizz.com/wp-content/uploads/2020/11/vue-firebase-authentication.jpg)
-
 ## Project setup
 ```
 npm install
